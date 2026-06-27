@@ -1,6 +1,6 @@
-namespace TransportChallenge;
+﻿namespace TransportChallenge;
 
-public class Car : Vehicle, IDriveable
+public class Motorcycle : Vehicle, IDriveable
 {
     public override string Move()
     {

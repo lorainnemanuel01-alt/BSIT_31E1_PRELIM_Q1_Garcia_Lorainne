@@ -1,6 +1,6 @@
-namespace TransportChallenge;
+﻿namespace TransportChallenge;
 
-public class Airplane : Vehicle, IFlyable
+public class Drone : Vehicle, IFlyable
 {
     public override string Move()
     {
